@@ -1,7 +1,7 @@
-url: https://github.com/WongYuYe/pokemon-claw
-name: WongYuYe/pokemon-claw
+url: https://github.com/WongYuYe/dsh-composer-recall
+name: WongYuYe/dsh-composer-recall
 category: ui
-tarball: https://github.com/WongYuYe/pokemon-claw/releases/latest/download/dsh-composer-recall.tgz
+tarball: https://github.com/WongYuYe/dsh-composer-recall/releases/latest/download/dsh-composer-recall.tgz
 description:
   en: 'Arrow-key input history for the DSH web composer on 0.1.2-alpha.1: ↑/↓ recalls the current session user prompts through the official Lexical setDraft seam.'
   zh: DSH 0.1.2-alpha.1 Web 输入框方向键历史：↑/↓ 通过官方 Lexical setDraft 召回当前会话的用户消息。
